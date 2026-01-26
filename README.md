@@ -6,7 +6,7 @@ Este é o meu projeto feito no Notebook LM, tratando sobre os conceitos de moeda
 https://notebooklm.google.com/notebook/0aec8dbf-97d6-401e-b356-5a0bdd0242b7
 
 > Este notebook tem o propósito de explicar as diferenças entre moeda e dinheiro e demonstrar como ambos os conceitos fazem parte da formação da sociedade. Os principais objetivos são:
-  1. Definir o que é Moeda;
-  2. Definir o que é Dinheiro;
-  3. Por que os dois termos não apontam para o mesmo objeto real;
-  4. Como ambos estão presentes na formação da sociedade.
+>  1. Definir o que é Moeda;
+>  2. Definir o que é Dinheiro;
+>  3. Por que os dois termos não apontam para o mesmo objeto real;
+>  4. Como ambos estão presentes na formação da sociedade.
