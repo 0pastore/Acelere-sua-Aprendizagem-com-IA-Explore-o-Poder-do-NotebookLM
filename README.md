@@ -1,5 +1,4 @@
 # Utilização de IA na aprendizagem de novos conceitos
-
 Este é um projeto desenvolvido a partir de uma proposta desenvolvida no bootcamp de GenAI & Dados, ofertado pela DIO em parceria com o banco Bradesco. O objetivo deste projeto é demonstrar o uso de inteligência artificial como ferramento auxiliadora no desenvolvimento e aprendizagem de novos conceitos.
 ---
 ## Sobre o tema do Notebook
