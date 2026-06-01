@@ -1,14 +1,15 @@
-# Aprendizagem-com-IA:-O-Poder-do-NotebookLM
-Projeto de utilização de IA na elaboração de cadernos de anotações para aprimorar a aprendizagem utilizando NotebookLM.
-
-Olá! 
-
-Este é o meu projeto feito no Notebook LM, tratando sobre os conceitos de moeda e dinheiro. Aqui você poderá entender as principais diferenças entre os dois termos que são comumente confundidos. Bem como acompanhar a trajetória de ambos ao longo da história da civilização humana, e como contribuíram para a evolução da mesma.
-
-https://notebooklm.google.com/notebook/0aec8dbf-97d6-401e-b356-5a0bdd0242b7
-
-> Este notebook tem o propósito de explicar as diferenças entre moeda e dinheiro e demonstrar como ambos os conceitos fazem parte da formação da sociedade. Os principais objetivos são:
+# Utilização de IA na aprendizagem de novos conceitos
+Este é um projeto desenvolvido a partir de uma proposta desenvolvida no bootcamp de GenAI & Dados, ofertado pela DIO em parceria com o banco Bradesco. O objetivo deste projeto é demonstrar o uso de inteligência artificial como ferramento auxiliadora no desenvolvimento e aprendizagem de novos conceitos.
+---
+## Sobre o tema do Notebook
+Este projeto foi desenvolvido no Notebook LM, e trata sobre os conceitos de moeda e dinheiro. Por meio dele, você poderá entender as principais diferenças entre os dois conceitos a partir da suas trajetórias ao longo da história da civilização humana: surgimento, desenvolvimento, como contribuíram para a evolução humana, etc.
+Ao final do projeto, você deverá ser capaz de:
 >  1. Definir o que é Moeda;
 >  2. Definir o que é Dinheiro;
 >  3. Por que os dois termos não apontam para o mesmo objeto real;
 >  4. Como ambos estão presentes na formação da sociedade.
+---
+## Ferramentas utilizadas
+Para o desenvolvimento deste projeto, foram utilizadas poucas ferramentas:
+- NotebookLM -> [Link para o caderno interativo]([URL-do-Link](https://notebooklm.google.com/notebook/0aec8dbf-97d6-401e-b356-5a0bdd0242b7))
+- Google Search -> buscas feitas no sistema de busca do Google
