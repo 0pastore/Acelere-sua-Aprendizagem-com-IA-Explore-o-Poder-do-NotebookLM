@@ -1,5 +1,6 @@
 # Utilização de IA na aprendizagem de novos conceitos
 Este é um projeto desenvolvido a partir de uma proposta desenvolvida no bootcamp de GenAI & Dados, ofertado pela DIO em parceria com o banco Bradesco. O objetivo deste projeto é demonstrar o uso de inteligência artificial como ferramento auxiliadora no desenvolvimento e aprendizagem de novos conceitos.
+
 ---
 ## Sobre o tema do Notebook
 Este projeto foi desenvolvido no Notebook LM, e trata sobre os conceitos de moeda e dinheiro. Por meio dele, você poderá entender as principais diferenças entre os dois conceitos a partir da suas trajetórias ao longo da história da civilização humana: surgimento, desenvolvimento, como contribuíram para a evolução humana, etc.
