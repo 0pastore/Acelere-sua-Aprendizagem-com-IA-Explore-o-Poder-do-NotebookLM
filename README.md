@@ -11,5 +11,5 @@ Ao final do projeto, você deverá ser capaz de:
 ---
 ## Ferramentas utilizadas
 Para o desenvolvimento deste projeto, foram utilizadas poucas ferramentas:
-- NotebookLM -> [Link para o caderno interativo]([URL-do-Link](https://notebooklm.google.com/notebook/0aec8dbf-97d6-401e-b356-5a0bdd0242b7))
+* [NotebookLM](https://notebooklm.google.com/notebook/0aec8dbf-97d6-401e-b356-5a0bdd0242b7?authuser=1) - Link para o caderno interativo de estudos.
 - Google Search -> buscas feitas no sistema de busca do Google
